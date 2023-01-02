@@ -12,8 +12,4 @@ client.on('ready', () => {
   });
 });
 
-client.on('error', err => {
-  console.error(err);
-});
-
-client.login('MTA1OTM0MDE5Nzg4NTY2MTMxNQ.GOhXEj.kzYK6-erqtZW2v23dei-lEeDRGyQP52U2J2pq8');
+client.login('MTA1OTM0MDE5Nzg4NTY2MTMxNQ.GQAnvA.ytaIa1Gsx__EJ_wkhyff8JtEGMCKPpG9vfgiio');
